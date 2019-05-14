@@ -1,0 +1,17 @@
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.csproj.CoreCompileInputs.cache
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointInterface.dll
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointInterface.pdb
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointEntity.dll
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointEntity.pdb
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.csprojResolveAssemblyReference.cache
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.dll
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.pdb
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointInterface.dll
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointInterface.pdb
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointEntity.dll
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\bin\Debug\TutorsPointEntity.pdb
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.csproj.CopyComplete
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.dll
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointInterface\obj\Debug\TutorsPointInterface.pdb

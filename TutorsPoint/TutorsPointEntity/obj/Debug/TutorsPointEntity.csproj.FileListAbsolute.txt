@@ -1,0 +1,12 @@
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.csproj.CoreCompileInputs.cache
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointEntity\bin\Debug\TutorsPointEntity.dll
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointEntity\bin\Debug\TutorsPointEntity.pdb
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.dll
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.pdb
+F:\Tanbir_porashuna_AIUB\ASP_DOT_NET\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointEntity\bin\Debug\TutorsPointEntity.dll
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointEntity\bin\Debug\TutorsPointEntity.pdb
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.dll
+C:\Users\USER\Downloads\TutorsPointApp\TutorsPoint\TutorsPointEntity\obj\Debug\TutorsPointEntity.pdb
